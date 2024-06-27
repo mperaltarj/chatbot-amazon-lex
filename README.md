@@ -1,5 +1,5 @@
-# dio-live-amazon-lex
-Repositório para o Live Coding do dia 28/10/2021
+ChatBot-amazon-lex
+Projeto realizado na Live Coding da DIO
 
 ## Serviços utilizados
 
